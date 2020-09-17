@@ -1,8 +1,10 @@
 import requests,time
 
 print("""
-	[ ยิงSMSโง่ๆ]
+	[ XBGSpammer-FreeVIP ]
 	   -By-sck-
+	  Free Free Free Free
+	  ฟรีไงไอ้สัส
 """)
 
 no = input('ตัวอย่าง : 08xx\n[👉] Phone: ')
